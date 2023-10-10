@@ -1,4 +1,4 @@
-package HomeWork.Lesson2;
+package homework.lesson2;
 
 /*1. Написать программу для вывода названия поры года по номеру месяца.
      При решении используйте оператор switch-case.*/

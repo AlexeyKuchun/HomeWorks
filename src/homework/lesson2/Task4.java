@@ -1,4 +1,4 @@
-package HomeWork.Lesson2;
+package homework.lesson2;
 import java.util.Scanner;
 
 /*4. Для введенного числа t (температура на улице) вывести

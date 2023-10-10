@@ -1,4 +1,4 @@
-package HomeWork.Lesson2;
+package homework.lesson2;
 import java.util.Scanner;
 /*5. По введенному номеру определить цвет радуги
         (1 – красный, 4 – зеленый и т. д.).*/

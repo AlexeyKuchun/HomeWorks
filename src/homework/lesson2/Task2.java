@@ -1,4 +1,4 @@
-package HomeWork.Lesson2;
+package homework.lesson2;
 import java.util.Scanner;
 /*2. Написать программу для вывода названия поры года по номеру месяца.
      При решении используйте оператор if-else-if.*/

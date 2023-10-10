@@ -1,4 +1,4 @@
-package HomeWork.Lesson2;
+package homework.lesson2;
 import java.util.Scanner;
 /*3. Напишите программу, которая будет принимать на вход число и на
      выход будет выводить сообщение четное число или нет.
