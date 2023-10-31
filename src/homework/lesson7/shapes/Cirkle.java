@@ -1,8 +1,8 @@
-package homework.lesson7;
+package homework.lesson7.shapes;
 
 public class Cirkle extends Shapes
 {
-    private static final String name = "Circle";
+    private static final String NAME = "Circle";
     private double radius;
     public Cirkle(double radius)
     {
@@ -23,7 +23,7 @@ public class Cirkle extends Shapes
     @Override
     public String getName()
     {
-        return name;
+        return NAME;
     }
 
     public double getRadius()

@@ -1,8 +1,8 @@
-package homework.lesson7;
+package homework.lesson7.shapes;
 
 public class Rectangle extends Shapes
 {
-    private static final String name = "Rectangle";
+    private static final String NAME = "Rectangle";
     private double height;
     private double weight;
     public Rectangle(double height,double weight)
@@ -25,7 +25,7 @@ public class Rectangle extends Shapes
     @Override
     public String getName()
     {
-        return name;
+        return NAME;
     }
 
     public double getHeight()

@@ -1,8 +1,8 @@
-package homework.lesson7;
+package homework.lesson7.shapes;
 
 public class Triangle extends Shapes
 {
-    private static final String name = "Triangle";
+    private static final String NAME= "Triangle";
     private double sideA;
     private double sideB;
     private double sideC;
@@ -27,7 +27,7 @@ public class Triangle extends Shapes
     @Override
     public String getName()
     {
-        return name;
+        return NAME;
     }
 
     public double getSideA() {
